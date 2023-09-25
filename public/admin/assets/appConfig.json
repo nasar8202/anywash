@@ -1,0 +1,9 @@
+{
+    "appName": "Anywash",
+    "apiBaseUrl": "http://localhost:8000/api/admin",
+    "mapsApiKey": "AIzaSyBCjJGTp__kOJb2mMUsBeKQkuOlwbiJipQ",
+    "developerName": "Verbose Techlabs LLP",
+    "developerUrl": "http://verbosetechlabs.com/",
+    "defaultCategoryScope": "ecommerce",
+    "defaultBannerScope": "ecommerce"
+}
