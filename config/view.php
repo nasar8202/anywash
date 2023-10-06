@@ -34,3 +34,7 @@ return [
     ),
 
 ];
+
+
+
+// mysql -u root -p drymycleaners < dumpfile.sql
