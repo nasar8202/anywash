@@ -1,9 +1,9 @@
 {
-    "appName": "Anywash",
-    "apiBaseUrl": "http://localhost:8000/api/admin",
-    "mapsApiKey": "AIzaSyBCjJGTp__kOJb2mMUsBeKQkuOlwbiJipQ",
+    "appName": "Laundry App",
+    "apiBaseUrl": "http://143.244.215.186/api/admin",
+    "mapsApiKey": "AIzaSyD3WDG_ew2dkCAJm7cHHjoqC_WT5cPkXxU",
     "developerName": "Verbose Techlabs LLP",
-    "developerUrl": "http://verbosetechlabs.com/",
+    "developerUrl": "https://outsourcingprojectscrm.com/",
     "defaultCategoryScope": "ecommerce",
     "defaultBannerScope": "ecommerce"
 }
