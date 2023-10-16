@@ -98,6 +98,7 @@
     ],
     "require": {
         "php": "~8.2.0",
+        "barryvdh/laravel-cors": "dev-develop",
         "laravel/framework": "^10.0",
         "laravel/helpers": "^1.1",
         "laravel/socialite": "^5.0",
@@ -108,8 +109,7 @@
         "vtlabs/core": "v2.x-dev",
         "vtlabs/ecommerce": "v4.x-dev"
     },
-    "require-dev": {
-    },
+    
     "autoload": {
         "classmap": [],
         "psr-4": {
